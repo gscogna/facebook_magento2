@@ -1,5 +1,9 @@
 facebook_magento2
-The official plugin is deprecated. the developers have decided to switch to new plugin. The new plugin is https://github.com/magento/meta-for-magento2 "declared" compatible with older versions of magento and php. I managed to make it compatible with older versions. If you want to offer me a coffee at paypal link,thanks.https://www.paypal.me/gerranomargeno93
+The official plugin is deprecated. the developers have decided to switch to new plugin. The new plugin is https://github.com/magento/meta-for-magento2 "declared" compatible with older versions of magento and php. I managed to make it compatible with older versions.
+this module work with "facebook/php-business-sdk": "^15.0.0" dont forget to update.
+https://github.com/facebook/facebook-php-business-sdk/tree/main
+
+If you want to offer me a coffee at paypal link,thanks.https://www.paypal.me/gerranomargeno93
 
 Create Folder Meta
 
