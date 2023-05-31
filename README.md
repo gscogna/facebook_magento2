@@ -1,5 +1,5 @@
 facebook_magento2
-The official plugin is deprecated. the developers have decided to switch to new plugin. The new plugin is https://github.com/magento/meta-for-magento2 "declared" compatible with older versions of magento and php. I managed to make it compatible with older versions. If you want to offer me a coffee at paypal link https://www.paypal.com/donate/?hosted_button_id=GGH3W7A9U8GAG, thanks.
+The official plugin is deprecated. the developers have decided to switch to new plugin. The new plugin is https://github.com/magento/meta-for-magento2 "declared" compatible with older versions of magento and php. I managed to make it compatible with older versions. If you want to offer me a coffee at paypal link,thanks. https://www.paypal.com/donate/?hosted_button_id=V8GSHV3RJUFD6
 
 Create Folder Meta
 
